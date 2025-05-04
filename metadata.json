@@ -1,6 +1,9 @@
 {
-    "name": "ONEV Token",
+    "name": "ONEV",
     "symbol": "ONEV",
-    "description": "Example token from Solana Making a Token guide.",
-    "image": "https://github.com/vanpuzy/onev/blob/main/icon.jpg"
+    "uri": "https://maroon-urban-ostrich-459.mypinata.cloud/ipfs/bafkreifbm7hdupevk55q3gpp5jcfhxwo4jbcrjuczefdj266k2po7qt7zi",
+    "description": "OneV token",
+    "image": "https://maroon-urban-ostrich-459.mypinata.cloud/ipfs/bafkreifbm7hdupevk55q3gpp5jcfhxwo4jbcrjuczefdj266k2po7qt7zi",
+    "seller_fee_basis_points": 0
   }
+  
