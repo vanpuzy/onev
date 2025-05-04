@@ -1,0 +1,6 @@
+{
+    "name": "ONEV Token",
+    "symbol": "ONEV",
+    "description": "Example token from Solana Making a Token guide.",
+    "image": "https://github.com/vanpuzy/onev/blob/main/icon.jpg"
+  }
